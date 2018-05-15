@@ -6,3 +6,4 @@ node_modules/
 test/  
 gulpfile.js
 webpack.config.js 
+dist/index.html
