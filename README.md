@@ -11,7 +11,7 @@ import stars from 'scor-stars'
 
 方法二：
 ```
-<script type="text/javascript" src="https://github.com/moyuanshangshen/scor-stars.git/dist/main.js">
+<script type="text/javascript" src="https://raw.githubusercontent.com/moyuanshangshen/scor-stars/master/dist/main.js">
 ```
 
 ## 使用
