@@ -1,6 +1,6 @@
 {
   "name": "scor-stars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "通过点击星星对某些事物进行评分 例如4.5🌟",
   "main": "./dist/main.js",
   "scripts": {
